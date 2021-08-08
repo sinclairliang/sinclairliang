@@ -1,7 +1,13 @@
 ## 📈 GitHub Stats
 [![Sinclair's github stats](https://github-readme-stats.vercel.app/api?username=sinclairliang&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=sinclairliang&show_icons=true&line_height=20&show_icons=true&theme=vue)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairliang&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairliang&show_icons=true&layout=compact&theme=vue)
 
+
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=sinclairliang"/>
+<br>
+      
 ## 🏆 Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=sinclairliang)](https://github-profile-trophy.vercel.app/?username=sinclairliang)
 
@@ -84,6 +90,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+      
 <!--
 **sinclairliang/sinclairliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
