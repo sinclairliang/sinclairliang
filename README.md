@@ -1,7 +1,7 @@
 ## 📈 GitHub Stats
-[![Sinclair's github stats](https://github-readme-stats.vercel.app/api?username=sinclairliang&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=sinclairliang&show_icons=true&line_height=20&show_icons=true&theme=vue)
+[![Sinclair's github stats](https://github-readme-stats.vercel.app/api?username=sinclairliang&show_icons=true&line_height=20&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=sinclairliang&show_icons=true&line_height=20&show_icons=true&theme=default)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairliang&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairliang&show_icons=true&layout=compact&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairliang&langs_count=10&show_icons=true&layout=compact&theme=default)](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairliang&show_icons=true&layout=compact&theme=default)
 
 
 <br>
